@@ -1,16 +1,34 @@
 ## Hi, I am Mahnoosh 👋
-Welcome to my GitHub profile! I love working on exciting projects and sharing my knowledge with the community.  
-<!--
-**mmahnoosh/mmahnoosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm an **AWS Certified Cloud Practitioner** and **Masterschool graduate** with practical experience in **Python development**, **cloud infrastructure**, and **automation**.  
+My goal is to build secure, scalable, and efficient cloud solutions while continuously expanding my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python and have further training as a full stack software developer...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Tools
+- **Programming:** Python, SQL, Bash  
+- **Cloud:** AWS (EC2, S3, RDS, IAM, Route 53, CloudWatch)  
+- **Infrastructure:** Terraform, Docker  
+- **Tools:** Git, Linux, VS Code, Jira  
+
+---
+
+### 🚀 Selected Projects
+- **[AWS Webshop](https://github.com/DEINNAME/aws-webshop)** – Deployment of a production-like web application using AWS and Terraform.  
+- **[Masterschool Projects](http://github.com/mmahnoosh/moviweb_app)** – Practical exercises in Python.  
+
+---
+
+### 📜 Certifications
+- **AWS Certified Cloud Practitioner**  
+- **Masterschool Graduate – Cloud & Software Development**
+
+---
+
+### 📫 Contact
+- 💼 [LinkedIn](https://www.linkedin.com/in/mahnoosh-montazer/)  
+- ✉️ [Email](mailto:montazer_mahnoosh@gmx.de)
+
+---
+
+⭐️ *Thank you for visiting my profile! Feel free to explore my repositories.*
