@@ -14,7 +14,7 @@ My goal is to build secure, scalable, and efficient cloud solutions while contin
 ---
 
 ### 🚀 Selected Projects
-- **[AWS Webshop](https://github.com/DEINNAME/aws-webshop)** – Deployment of a production-like web application using AWS and Terraform.  
+- **[AWS Webshop]([https://github.com/mmahnoosh/AWS_grocery])** – Deployment of a production-like web application using AWS and Terraform.  
 - **[Masterschool Projects](http://github.com/mmahnoosh/moviweb_app)** – Practical exercises in Python.  
 
 ---
